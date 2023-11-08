@@ -5,9 +5,6 @@
 Welcome to the iOS Application Base repository! This iOS application, developed programmatically in Swift, serves as a foundational framework for building iOS applications. 
 It includes a range of components and functionalities that can be used as a starting point for your app development.
 
-![hippo](https://github.com/SandokanSaruhan/SandoBase/blob/main/SandoBase.png)
-![hippo](https://github.com/SandokanSaruhan/SandoBase/blob/main/SandoBase.gif)
-
 ## Features
 
 - **Collection View:** A versatile component for displaying collections of items.
