@@ -1,5 +1,8 @@
 # SandoBase
 
+![hippo](https://github.com/SandokanSaruhan/SandoBase/blob/main/SandoBase.png)
+![hippo](https://github.com/SandokanSaruhan/SandoBase/blob/main/SandoBase.gif)
+
 # iOS Application Base
 
 Welcome to the iOS Application Base repository! This iOS application, developed programmatically in Swift, serves as a foundational framework for building iOS applications. 
