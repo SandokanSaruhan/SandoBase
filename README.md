@@ -1,7 +1,7 @@
 # SandoBase
 
-![hippo](https://github.com/SandokanSaruhan/SandoBase/blob/main/SandoBase.png {width=300px})
-![hippo](https://github.com/SandokanSaruhan/SandoBase/blob/main/SandoBase.gif {width=300px})
+![hippo](https://github.com/SandokanSaruhan/SandoBase/blob/main/SandoBase.png | width=300 )
+![hippo](https://github.com/SandokanSaruhan/SandoBase/blob/main/SandoBase.gif | width=300 )
 
 # iOS Application Base
 
