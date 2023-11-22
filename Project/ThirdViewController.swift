@@ -160,7 +160,7 @@ extension ThirdViewController: UICollectionViewDataSource {
             
         case 9:
            
-            title.text = "ThirteenthViewController"
+            title.text = "Barcode Reader - ThirteenthViewController"
             
         case 10:
             

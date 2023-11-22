@@ -73,6 +73,11 @@ class FifthViewController: UIViewController, AVCaptureMetadataOutputObjectsDeleg
         
         
         
+        self.designTextLabel()
+    }
+    
+    // MARK: Design Methods
+    func designTextLabel() {
         noteLabel = UILabel(frame: CGRect(x: 0, y: screenSize.height/2, width: screenSize.width, height: 50))
         noteLabel.text = "Detect"
         noteLabel.font = UIFont(name:Constants.digital_Font, size: 32.0)
@@ -82,7 +87,6 @@ class FifthViewController: UIViewController, AVCaptureMetadataOutputObjectsDeleg
         self.view.addSubview(noteLabel)
     }
     
-    // MARK: Design Methods
     func designBackButton() {
         let backImage = UIImage(named: "back-button")
         let backButton = UIButton(type: .system)
